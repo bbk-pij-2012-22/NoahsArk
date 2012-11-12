@@ -11,7 +11,7 @@ public abstract class Feline extends Animal{
     
     public void kill(Animal animal) {
         
-        System.out.println(animal.name + " is dead!");
+        System.out.println(this.name + " attacked and " + animal.name + " is dead!");
         
     }
 }
