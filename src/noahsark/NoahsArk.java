@@ -28,7 +28,7 @@ public class NoahsArk {
         }
         catch(InterruptedException ex) {
         }
-        Lion Lion1 = new Lion();
+        Animal Lion1 = new Lion();
         Lion1.name = "Leo";
         System.out.println("Now let's make a Kitten called Tom");
         Animal Kitten1 = new Kitten();

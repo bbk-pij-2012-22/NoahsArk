@@ -2,7 +2,7 @@
 package noahsark;
 
 
-public class Equine extends Animal {
+public abstract class Equine extends Animal {
     
     public void move() {
         
